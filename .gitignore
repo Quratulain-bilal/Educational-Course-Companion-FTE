@@ -61,4 +61,3 @@ course.db
 *.log
 !/frontend/src/lib/
 !/frontend/src/lib/api.ts
-!/backend/.env
